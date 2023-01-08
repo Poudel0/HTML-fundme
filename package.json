@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "hardhat": "^2.12.5"
   }
 }
